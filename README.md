@@ -52,10 +52,3 @@ You can install the required packages using:
 ```sh
 pip install pandas numpy matplotlib seaborn scikit-learn
 
-## Notebook Contents
-Introduction: Overview of outliers and their significance.
-Loading Data: Instructions and code for loading datasets.
-Exploratory Data Analysis (EDA): Techniques to explore and understand the data.
-Visualization: Various plots to visualize the data and identify outliers.
-Outliers Detection Methods: Implementation of different methods to detect outliers.
-Conclusion: Summary and insights gained from the analysis.
